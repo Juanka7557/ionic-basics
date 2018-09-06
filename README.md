@@ -15,6 +15,6 @@ Importante definir las Pages de la aplicacion antes de comenzar el desarrollo.
 * Para generar una API key con google es necesaria una tdc.
 * Sebm-google es el componente de una version vieja de Angular el componente que se debe utilizar es agm-map y la documentacion se encuentra en esta web https://angular-maps.com/
 * En el uso de la camara recomiendo utilizar lo que aparece en este blog https://blog.ng-classroom.com/blog/ionic2/camera-and-ionic/ es igual de sencillo y funciona sin problemas dentro de las preguntas del curso despliegan unas soluciones muy complejas las verifique y me dieron error al intentar escribir en el sistema de archivos.
-
+* El uso del almacenamiento SQLite esta mas sencillo este blog https://blog.ng-classroom.com/blog/ionic2/sqlite-and-ionic/ 
 
 
